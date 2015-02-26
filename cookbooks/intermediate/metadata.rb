@@ -8,4 +8,4 @@ version          '0.1.0'
 
 depends "rightscale"
 
-recipe "intermediate::default", "Prints hellow world output"
+recipe "intermediate::default", "Prints hello world output"
